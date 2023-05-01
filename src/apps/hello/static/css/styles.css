@@ -1,0 +1,18 @@
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(42deg, rgba(2,0,36,1) 0%, rgba(172,78,230,1) 24%, rgba(0,212,255,1) 100%);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.message {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: #000;
+}
